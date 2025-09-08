@@ -1,2 +1,2 @@
-# image-processing
-Package Image Processing
+# 🖼️ image-processing
+Package Image Processing - OpenCV
